@@ -1,6 +1,2 @@
 # _learnPython
-
-
-
-
-try hard
+adddaddaad
